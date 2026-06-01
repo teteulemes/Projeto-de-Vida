@@ -1,4 +1,4 @@
-@import url('https://fonts.google.com/share?selection.family=UnifrakturMaguntia');
+@import url('https://fonts.google.com/share?selection.family=Playfair+Display:ital,wght@0,400..900;1,400..900');
 
 :root {
     --cor-de-fundo: #000000;
@@ -12,7 +12,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'UnifrakturMaguntia', sans-serif;
+    font-family: 'Playfair Display', sans-serif;
 }
 
 
